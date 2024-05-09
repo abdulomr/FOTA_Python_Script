@@ -5,7 +5,7 @@ import sys
 import glob
 from time import sleep
 
-''' testing git pushes  '''
+''' testing git pushes 2  '''
 
 ''' Bootloader Commands '''
 CBL_GET_VER_CMD              = 0x10
